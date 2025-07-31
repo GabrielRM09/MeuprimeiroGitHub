@@ -11,6 +11,7 @@ namespace Teste123
         static void Main(string[] args)
         {
             Console.WriteLine("Ola mundo");
+            Console.WriteLine("Ola mundo 2");
         }
     }
 }
