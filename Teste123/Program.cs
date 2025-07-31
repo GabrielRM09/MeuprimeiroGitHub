@@ -12,6 +12,7 @@ namespace Teste123
         {
             Console.WriteLine("Ola mundo");
             Console.WriteLine("Ola mundo 2");
+            Console.WriteLine("Ola mundo 3");
         }
     }
 }
